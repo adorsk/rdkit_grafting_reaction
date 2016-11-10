@@ -1,0 +1,12 @@
+C[Si]1(C)C(C#Cc2sc(C#N)c(F)c2F)=C2OCCOC2=C1c1sc(C2=C3OCCOC3=C(C#Cc3sc(C#N)c(F)c3F)[Si]2(C)C)c2c1C(=O)c1c(C(F)(F)F)sc(C(F)(F)F)c1C2=O
+N#Cc1noc(C#N)c1C(=O)Oc1ncc(-c2sc(-c3cnc(OC(=O)c4c(C#N)noc4C#N)nn3)c3c2C(=O)c2c(C(F)(F)F)sc(C(F)(F)F)c2C3=O)nn1
+N#Cc1sc(C#Cc2ncc(-c3sc(-c4cnc(C#Cc5sc(C#N)c(F)c5F)nn4)c4c3C(=O)c3c(C(F)(F)F)sc(C(F)(F)F)c3C4=O)nn2)c(F)c1F
+N#Cc1noc(C#N)c1C(=O)Oc1cnc(-c2sc(-c3ncc(OC(=O)c4c(C#N)noc4C#N)nn3)c3c2C(=O)c2c(C(F)(F)F)sc(C(F)(F)F)c2C3=O)nn1
+N#Cc1sc(C#Cc2cnc(-c3sc(-c4ncc(C#Cc5sc(C#N)c(F)c5F)nn4)c4c3C(=O)c3c(C(F)(F)F)sc(C(F)(F)F)c3C4=O)nn2)c(F)c1F
+C[Si]1(C)C(OC(=O)c2c(C#N)noc2C#N)=C2OCCOC2=C1c1sc2ccc(C#N)cc2c1C1=C2OCCOC2=C(OC(=O)c2c(C#N)noc2C#N)[Si]1(C)C
+C[Si]1(C)C(C#Cc2sc(C#N)c(F)c2F)=C2OCCOC2=C1c1sc2ccc(C#N)cc2c1C1=C2OCCOC2=C(C#Cc2sc(C#N)c(F)c2F)[Si]1(C)C
+N#Cc1ccc2sc(-c3cnc(OC(=O)c4c(C#N)noc4C#N)nn3)c(-c3cnc(OC(=O)c4c(C#N)noc4C#N)nn3)c2c1
+N#Cc1ccc2sc(-c3cnc(C#Cc4sc(C#N)c(F)c4F)nn3)c(-c3cnc(C#Cc4sc(C#N)c(F)c4F)nn3)c2c1
+C[Si]1(C)C(OC(=O)c2c(C#N)noc2C#N)=C2OCCOC2=C1c1sc(C2=C3OCCOC3=C(OC(=O)c3c(C#N)noc3C#N)[Si]2(C)C)c2c1C(=O)c1c(C(F)(F)F)sc(C(F)(F)F)c1C2=O
+N#Cc1ccc2sc(-c3ncc(OC(=O)c4c(C#N)noc4C#N)nn3)c(-c3ncc(OC(=O)c4c(C#N)noc4C#N)nn3)c2c1
+N#Cc1ccc2sc(-c3ncc(C#Cc4sc(C#N)c(F)c4F)nn3)c(-c3ncc(C#Cc4sc(C#N)c(F)c4F)nn3)c2c1
