@@ -7,6 +7,5 @@ setup(
     author='adorsk',
     license='MIT',
     packages=['rdkit_grafting_reaction'],
-    install_requires=['rdkit'],
     zip_safe=False
 )
